@@ -1,0 +1,14 @@
+Source: mira-test
+Section: misc
+Priority: optional
+Maintainer: Molior Test <test@molior.info>
+Build-Depends: debhelper-compat (= 13), dotnet-sdk-11.0
+Standards-Version: 4.7.2
+Rules-Requires-Root: no
+
+Package: mira-test
+Section: misc
+Architecture: all
+Depends: ${misc:Depends}, dotnet-runtime-11.0
+Description: Molior test package for .NET builds
+ Hello World program in C#, built with dotnet build.

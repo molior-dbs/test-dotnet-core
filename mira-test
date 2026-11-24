@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dotnet /opt/mira-test/dotnet/mira-test.dll

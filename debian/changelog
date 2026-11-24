@@ -1,0 +1,6 @@
+mira-test (1.0.6) trixie; urgency=medium
+
+  * Port to trixie and .NET 11 (dotnet-sdk-11.0, net11.0)
+  * Install to /opt/mira-test
+
+ -- Molior Test <test@molior.info>  Tue, 24 Nov 2026 17:13:07 +0000
